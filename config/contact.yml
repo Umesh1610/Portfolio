@@ -7,7 +7,7 @@ LOCATION:
 FORM:
   label: "Contact Form"
   fields:
-    - name: "Full name"
+    - name: "Umesh"
     - email: "Email address"
-    - message: "Your message"
+    - message: "Data Engineer with 5 years experience"
     - submit: "Send message"
