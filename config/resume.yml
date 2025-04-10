@@ -45,8 +45,8 @@ LANGUAGES:
 
 SKILLS:
   enabled: true
-  display_progress_bars: true
-  display_percentage_values: true
+  #display_progress_bars: true
+  #display_percentage_values: true
   label: "My Skills"
   items:
     - skill: "Web Design"
