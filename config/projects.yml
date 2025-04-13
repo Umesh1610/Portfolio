@@ -64,7 +64,7 @@ PROJECTS:
 
   - title: "Python Calculator"
     category: "Applications"
-    image: "config/assets/projects/pycal.jpg"
+    image: "config/assets/projects/pycal.jpeg"
     url: "https://github.com/Umesh1610/Python-Calculator"
 
   - title: "Tower of Hanoi - Interstellar Edition"
