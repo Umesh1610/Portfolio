@@ -3,24 +3,26 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I am a Data Engineer with over 5 years of experience in building scalable, high-performance data pipelines for both batch and real-time processing. My expertise includes cloud platforms (AWS, GCP, Azure), data warehousing (Snowflake, BigQuery), and streamlining ETL workflows using tools like Apache Spark, Kafka, and Airflow. I am skilled in modern data architecture, implementing robust data models, and ensuring data quality through automated testing and monitoring. My experience spans multiple industries, delivering actionable insights and improving business operations through advanced data engineering practices.
+    I am a Data Engineer with over 5 years of experience in building scalable, high-performance data pipelines for both batch and real-time processing. My expertise includes cloud platforms (AWS, GCP, Azure), data warehousing (Snowflake, BigQuery), and streamlining ETL workflows using tools like Apache Spark, Kafka, and Airflow. 
+    
+    I am skilled in modern data architecture, implementing robust data models, and ensuring data quality through automated testing and monitoring. My experience spans multiple industries, delivering actionable insights and improving business operations through advanced data engineering practices.
 
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
+    - title: "Data Pipeline Development"
       icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
+      description: "Designing and building robust, scalable ETL and ELT pipelines for both batch and real-time processing using Spark, Kafka, Airflow, and cloud platforms (AWS, Azure, GCP)."
+    - title: "Cloud Engineering"
       icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
+      description: "Implementing serverless architectures and optimized data workflows leveraging AWS Glue, Azure Data Factory, and Google Dataflow, ensuring scalability and cost efficiency."
+    - title: "Data Warehousing & Analytics"
       icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
+      description: "Creating and optimizing analytics-ready data warehouses using Snowflake, BigQuery, dbt, and Redshift, facilitating data-driven decision-making."
+    - title: "Data Quality & Observability"
       icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
+      description: "Ensuring high data quality through automated testing, monitoring, and data governance practices using Great Expectations, Prometheus, and Grafana."
 
 SKILLS:
   enabled: true
