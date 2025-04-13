@@ -32,16 +32,6 @@ EXPERIENCE:
       position: "Creative Director"
       description: "Direct and oversee the creative process for a range of projects, from concept to execution. Lead cross-functional teams to create innovative design solutions for branding, marketing, and digital experiences. Recently led the redesign of a global brand’s digital presence, increasing online sales by 40%."
 
-LANGUAGES:
-  enabled: true
-  display_progress_bars: true
-  display_percentage_values: true
-  label: "Languages"
-  items:
-    - language: "Inglés"
-      proficiency: "60%"
-    - language: "Francés"
-      proficiency: "40%"
 
 SKILLS:
   enabled: true
