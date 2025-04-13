@@ -3,7 +3,7 @@ HEADER:
 
 PROJECTS:
   - title: "Real Time Reddit Sentiment Analysis"
-    category: ["Data Engineering", "Machine Learning"]
+    category: "Data Engineering"
     image: "config/assets/projects/senti.jpg"
     url: "https://github.com/Umesh1610/Realtime-Reddit-Sentiment-Analysis-AWS"
 
