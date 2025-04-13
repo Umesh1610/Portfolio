@@ -17,16 +17,13 @@ EXPERIENCE:
   enabled: true
   label: "Experience"
   items:
-    - period: "2010 — 2013"
-      position: "Web Designer"
-      description: "Worked on the design and development of websites for small to medium-sized businesses. Collaborated closely with developers to ensure responsive and user-friendly designs. Led the redesign of the company’s website, improving user engagement by 25%."
-    - period: "2013 — 2015"
-      position: "Art Director"
-      description: "Led a team of designers to create visually stunning campaigns for major clients in the advertising industry. Managed the creative direction of print and digital media, ensuring consistent branding and high-quality designs. Oversaw the production of advertisements that won industry awards."
-    - period: "2015 — Present"
-      position: "Creative Director"
-      description: "Direct and oversee the creative process for a range of projects, from concept to execution. Lead cross-functional teams to create innovative design solutions for branding, marketing, and digital experiences. Recently led the redesign of a global brand’s digital presence, increasing online sales by 40%."
-
+    - period: "2019 — 2022"
+      position: "Data Engineer"
+      description: ""
+    - period: "2023 — 2025"
+      position: "Data Engineer"
+      description: ""
+   
 
 
 SKILLS:
