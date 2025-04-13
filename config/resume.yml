@@ -49,6 +49,8 @@ SKILLS:
       proficiency: "90%"
     - skill: "ETL/ELT"
       proficiency: "50%"
+    - skill: "dbt"
+      proficiency: "50%"
     - skill: "Data Analysis"
       proficiency: "50%"
     - skill: "Data Visualization"
