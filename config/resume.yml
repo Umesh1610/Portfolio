@@ -24,7 +24,16 @@ EXPERIENCE:
       position: "Data Engineer"
       description: ""
    
-
+LANGUAGES:
+  enabled: true
+  display_progress_bars: true
+  display_percentage_values: true
+  label: "Languages"
+  items:
+    - language: "Inglés"
+      proficiency: "60%"
+    - language: "Francés"
+      proficiency: "40%"
 
 SKILLS:
   enabled: true
