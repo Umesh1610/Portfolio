@@ -3,9 +3,7 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+    I am a Data Engineer with over 5 years of experience in building scalable, high-performance data pipelines for both batch and real-time processing. My expertise includes cloud platforms (AWS, GCP, Azure), data warehousing (Snowflake, BigQuery), and streamlining ETL workflows using tools like Apache Spark, Kafka, and Airflow. I am skilled in modern data architecture, implementing robust data models, and ensuring data quality through automated testing and monitoring. My experience spans multiple industries, delivering actionable insights and improving business operations through advanced data engineering practices.
 
 DOING:
   enabled: true
