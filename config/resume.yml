@@ -41,11 +41,11 @@ SKILLS:
   #display_percentage_values: true
   label: "My Skills"
   items:
-    - skill: "MySQL, Python, Spark/Pyspark"
+    - skill: "Programming: MySQL, Python, Spark/Pyspark"
       proficiency: "80%"
-    - skill: "AWS, Azure, GCP"
+    - skill: "Cloud: AWS, Azure, GCP"
       proficiency: "70%"
-    - skill: "Snowflake, Redshift, Bigquery"
+    - skill: "Data Warehousing: Snowflake, Redshift, Bigquery"
       proficiency: "90%"
     - skill: "ETL/ELT"
       proficiency: "50%"
@@ -53,7 +53,7 @@ SKILLS:
       proficiency: "50%"
     - skill: "Airflow"
       proficiency: "50%"
-    - skill: "Kafka"
+    - skill: "Kafka, Kinesis, Pub/Sub, Spark Streaming"
       proficiency: "50%"
     - skill: "Git, Docker, Terraform"
       proficiency: "50%"
