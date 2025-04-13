@@ -5,11 +5,11 @@ EDUCATION:
   enabled: true
   label: "Education"
   items:
-     - period: "2022 — 2024"
+    - period: "2022 — 2024"
       institution: "University of Texas at Dallas"
       description: "Masters in Information Technology Management"
 
-     - period: "2015 — 2019"
+    - period: "2015 — 2019"
       institution: "Dhirubhai Ambani Institute of Information and Commnunication Technology"
       description: "Bachelors in Information and Communication Technology"
       
