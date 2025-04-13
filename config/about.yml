@@ -69,13 +69,4 @@ TECHNOLOGIES:
       icon: "config/assets/icons/ai.svg"
     - title: "Docker"
       icon: "config/assets/icons/docker.svg"
-    - title: "Git"
-      icon: "config/assets/icons/git.svg"
-    - title: "Tableau"
-      icon: "config/assets/icons/tableau.svg"
-    - title: "Power BI"
-      icon: "config/assets/icons/powerbi.svg"
-    - title: "Looker"
-      icon: "config/assets/icons/looker.svg
-    - title: "Linux"
-      icon: "config/assets/icons/linux.svg"
+
