@@ -4,17 +4,17 @@ HEADER:
 PROJECTS:
   - title: "Real Time Reddit Sentiment Analysis"
     category: "Data Engineering"
-    image: "config/assets/projects/senti.jpg"
+    image: "config/assets/projects/senti_resized.jpg"
     url: "https://github.com/Umesh1610/Realtime-Reddit-Sentiment-Analysis-AWS"
 
   - title: "Real Time Crypto Price Tracking "
     category: "Data Engineering"
-    image: "config/assets/projects/crypto.png"
+    image: "config/assets/projects/crypto_resized.png"
     url: "https://github.com/Umesh1610/Crypto-real-time-Price-Tracking-GCP"
 
   - title: "Real Time Flight & Weather Tracking"
     category: "Data Engineering"
-    image: "config/assets/projects/flight.jpg"
+    image: "config/assets/projects/flight_resized.jpg"
     url: "https://github.com/Umesh1610/realtime_flight_track_databricks"
 
   - title: "F1 Racing Using Databricks"
