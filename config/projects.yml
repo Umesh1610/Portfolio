@@ -22,6 +22,18 @@ PROJECTS:
     image: "config/assets/projects/f1.jpg"
     url: "https://github.com/Umesh1610/F1racing_dataengineering_databricks"
 
+ 
+  - title: "Airbnb Snowflake DBT"
+    category: "DBT"
+    image: "config/assets/projects/air.jpeg"
+    url: "https://github.com/Umesh1610/Airbnb_dbt"
+
+  - title: "TPCH Snowflake DBT"
+    category: "DBT"
+    image: "config/assets/projects/tpch.png"
+    url: "https://github.com/Umesh1610/dbt-project-tpch"
+
+
   - title: "AWS Certified Solutions Architect – Associate"
     category: "Certifications"
     image: "config/assets/projects/aws.png"
@@ -46,16 +58,7 @@ PROJECTS:
     category: "Certifications"
     image: "config/assets/projects/dpy.jpg"
     url: "https://www.coursera.org/account/accomplishments/certificate/QMR7SWK3JPKQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
-    
-  - title: "Airbnb Snowflake DBT"
-    category: "DBT"
-    image: "config/assets/projects/air.jpeg"
-    url: "https://github.com/Umesh1610/Airbnb_dbt"
-
-  - title: "TPCH Snowflake DBT"
-    category: "DBT"
-    image: "config/assets/projects/tpch.png"
-    url: "https://github.com/Umesh1610/dbt-project-tpch"
+       
 
   - title: "Crypto Dashboard Looker "
     category: "Data Visualization"
