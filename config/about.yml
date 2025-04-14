@@ -15,13 +15,13 @@ DOING:
       icon: "config/assets/icons/db.png"
       description: "Designing and building robust, scalable ETL and ELT pipelines for both batch and real-time processing using Spark, Kafka, Airflow, and cloud platforms (AWS, Azure, GCP)."
     - title: "Cloud Engineering"
-      icon: "config/assets/icons/code.svg"
+      icon: "config/assets/icons/ce.png"
       description: "Implementing serverless architectures and optimized data workflows leveraging AWS Glue, Azure Data Factory, and Google Dataflow, ensuring scalability and cost efficiency."
     - title: "Data Warehousing & Analytics"
       icon: "config/assets/icons/dw.png"
       description: "Creating and optimizing analytics-ready data warehouses using Snowflake, BigQuery, dbt, and Redshift, facilitating data-driven decision-making."
     - title: "Data Quality & Observability"
-      icon: "config/assets/icons/laptop-code.svg"
+      icon: "config/assets/icons/dq.png"
       description: "Ensuring high data quality through automated testing, monitoring, and data governance practices using Great Expectations, Prometheus, and Grafana."
 
 SKILLS:
