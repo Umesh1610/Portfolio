@@ -25,12 +25,12 @@ PROJECTS:
  
   - title: "Airbnb Snowflake DBT"
     category: "DBT"
-    image: "config/assets/projects/abs.jpeg"
+    image: "config/assets/projects/air.jpeg"
     url: "https://github.com/Umesh1610/Airbnb_dbt"
 
   - title: "TPCH Snowflake DBT"
     category: "DBT"
-    image: "config/assets/projects/tpch.png"
+    image: "config/assets/projects/abs.png"
     url: "https://github.com/Umesh1610/dbt-project-tpch"
 
 
