@@ -30,7 +30,7 @@ PROJECTS:
 
   - title: "TPCH Snowflake DBT"
     category: "DBT"
-    image: "config/assets/projects/abs.png"
+    image: "config/assets/projects/abs.jpeg"
     url: "https://github.com/Umesh1610/dbt-project-tpch"
 
 
