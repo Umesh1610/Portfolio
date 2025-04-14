@@ -41,7 +41,7 @@ SKILLS:
   #display_percentage_values: true
   label: "My Skills"
   items:
-    - skill: "Programming                     : MySQL, Python, Spark/Pyspark"
+    - skill: "Programming                      : MySQL, Python, Spark/Pyspark"
       proficiency: "80%"
     - skill: "Cloud                           : AWS, Azure, GCP"
       proficiency: "70%"
