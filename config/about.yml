@@ -12,7 +12,7 @@ DOING:
   label: "What I'm doing"
   items:
     - title: "Data Pipeline Development"
-      icon: "config/assets/icons/db.svg"
+      icon: "config/assets/icons/db.png"
       description: "Designing and building robust, scalable ETL and ELT pipelines for both batch and real-time processing using Spark, Kafka, Airflow, and cloud platforms (AWS, Azure, GCP)."
     - title: "Cloud Engineering"
       icon: "config/assets/icons/code.svg"
