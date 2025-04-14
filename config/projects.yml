@@ -22,6 +22,31 @@ PROJECTS:
     image: "config/assets/projects/f1.jpg"
     url: "https://github.com/Umesh1610/F1racing_dataengineering_databricks"
 
+  - title: "AWS Certified Solutions Architect – Associate"
+    category: "Certifications"
+    image: "config/assets/projects/aws.png"
+    url: "https://www.credly.com/badges/0b980a84-dc7d-46fb-b51d-3c4879cb350b/linked_in_profile"
+
+  - title: "Azure Data Engineer Associate"
+    category: "Certifications"
+    image: "config/assets/projects/azure.png"
+    url: "https://learn.microsoft.com/en-us/users/umeshreddymavurapu-8520/credentials/f64c9e903ec4b19b?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+
+  - title: "Databricks Certified Data Engineer Professional"
+    category: "Certifications"
+    image: "config/assets/projects/dbx.png"
+    url: "https://credentials.databricks.com/818f6450-885f-42ff-9d02-632aac276c23#acc.t7Q8mRXj"
+
+  - title: "Python for Data Science, AI & Development"
+    category: "Certifications"
+    image: "config/assets/projects/pai.jpg"
+    url: "https://www.coursera.org/account/accomplishments/verify/83JEMRJA4LLN"
+
+  - title: "Data Visualization with Python by IBM"
+    category: "Certifications"
+    image: "config/assets/projects/py.jpeg"
+    url: "https://www.coursera.org/account/accomplishments/certificate/QMR7SWK3JPKQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
+    
   - title: "Airbnb Snowflake DBT"
     category: "DBT"
     image: "config/assets/projects/air.jpeg"
