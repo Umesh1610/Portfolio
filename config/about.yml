@@ -18,7 +18,7 @@ DOING:
       icon: "config/assets/icons/code.svg"
       description: "Implementing serverless architectures and optimized data workflows leveraging AWS Glue, Azure Data Factory, and Google Dataflow, ensuring scalability and cost efficiency."
     - title: "Data Warehousing & Analytics"
-      icon: "config/assets/icons/compass.svg"
+      icon: "config/assets/icons/dw.png"
       description: "Creating and optimizing analytics-ready data warehouses using Snowflake, BigQuery, dbt, and Redshift, facilitating data-driven decision-making."
     - title: "Data Quality & Observability"
       icon: "config/assets/icons/laptop-code.svg"
