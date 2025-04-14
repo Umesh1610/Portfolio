@@ -44,7 +44,7 @@ PROJECTS:
 
   - title: "Data Visualization with Python by IBM"
     category: "Certifications"
-    image: "config/assets/projects/py.jpeg"
+    image: "config/assets/projects/dpy.jpeg"
     url: "https://www.coursera.org/account/accomplishments/certificate/QMR7SWK3JPKQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate"
     
   - title: "Airbnb Snowflake DBT"
