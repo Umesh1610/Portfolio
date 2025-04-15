@@ -2,6 +2,12 @@ HEADER:
   label: "Portfolio"
 
 PROJECTS:
+  - title: "Real Time Flight & Weather Tracking Using Databricks"
+    category: "Data Engineering"
+    image: "config/assets/projects/flight_resized.jpg"
+    url: "https://github.com/Umesh1610/realtime_flight_track_databricks"
+
+
   - title: "Real Time Reddit Sentiment Analysis"
     category: "Data Engineering"
     image: "config/assets/projects/senti_resized.jpg"
