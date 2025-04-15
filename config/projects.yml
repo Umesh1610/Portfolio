@@ -18,10 +18,6 @@ PROJECTS:
     image: "config/assets/projects/crypto_resized.png"
     url: "https://github.com/Umesh1610/Crypto-real-time-Price-Tracking-GCP"
 
-  - title: "Real Time Flight & Weather Tracking"
-    category: "Data Engineering"
-    image: "config/assets/projects/flight_resized.jpg"
-    url: "https://github.com/Umesh1610/realtime_flight_track_databricks"
 
   - title: "F1 Racing Using Databricks"
     category: "Data Engineering"
