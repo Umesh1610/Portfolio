@@ -14,7 +14,7 @@ USER:
 
 INFO:
   - label: "Email"
-    value: "richard@example.com"
+    value: "umeshmavurapu@gmail.com"
     icon: "mail-outline"
   - label: "Phone"
     value: "+1 (945) 249-1233"
@@ -28,7 +28,7 @@ INFO:
 
 SOCIAL:
   - icon: "logo-linkedin"
-    url: "https://www.linkedin.com/"
+    url: "linkedin.com/in/umesh-r-3962b8353"
   - icon: "logo-github"
-    url: "https://github.com/ivansaul"
+    url: "https://github.com/Umesh1610?tab=repositories"
 
