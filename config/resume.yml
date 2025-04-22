@@ -18,11 +18,11 @@ EXPERIENCE:
   label: "Experience"
   items:
     - period: "2019 — 2022"
-      position: "Data Engineer"
-      description: "Capillary Technologies"
+      position: "Data Engineer - Capillary Technologies"
+      description: "Architected scalable ETL pipelines with PySpark and Apache Airflow, migrating legacy workflows to dbt models. Enabled real-time data processing using AWS Glue and delivered impactful insights through Power BI, focusing on optimizing query performance."
     - period: "2023 — 2025"
       position: "Data Engineer"
-      description: "Metlife"
+      description: "Led the design and optimization of Snowflake data marts and automated ETL pipelines using Azure Data Factory, improving marketing analytics workflows. Enhanced data quality using Azure Databricks and implemented CI/CD pipelines for seamless deployments."
       
 LANGUAGES:
   enabled: false
